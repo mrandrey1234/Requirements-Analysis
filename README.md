@@ -34,8 +34,8 @@
 4. **Загрузите модель распознования:**
  
     ```bash
-     wget https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip
-     unzip vosk-model-ru-0.42.zip -d models/
+     curl -L -O https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip
+     unzip vosk-model-ru-0.42.zip
      ```
    
 ## Использование
