@@ -21,14 +21,17 @@
    git clone https://github.com/mrandrey1234/Requirements-Analysis.git
    cd Requirements-Analysis
    ```
+2. **Установите Microsoft Visual C++ Build Tools (только для Windows):**
    
-2. **Установите зависимости:**
+   Скачайте и установите с [официального сайта](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+   
+3. **Установите зависимости:**
 
     ```bash
     pip install -r requirements.txt
     ```
    
-3. **Загрузите модель распознования:**
+4. **Загрузите модель распознования:**
  
     ```bash
      wget https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip
