@@ -1,0 +1,8 @@
+pyaudio
+webrtcvad
+librosa
+numpy
+scikit-learn
+vosk
+python-docx
+soundfile
