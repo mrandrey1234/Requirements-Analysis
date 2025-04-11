@@ -24,6 +24,11 @@
 2. **Установите Microsoft Visual C++ Build Tools (только для Windows):**
    
    Скачайте и установите с [официального сайта](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+
+3. **Установите или обновите SetupTools:**
+   ```bash
+   pip install --upgrade setuptools
+   ```
    
 3. **Установите зависимости:**
 
